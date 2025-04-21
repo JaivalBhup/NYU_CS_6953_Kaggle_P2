@@ -1,0 +1,10 @@
+transformers
+datasets
+evaluate
+accelerate
+peft
+trl
+pandas
+torch
+pickle
+numpy
